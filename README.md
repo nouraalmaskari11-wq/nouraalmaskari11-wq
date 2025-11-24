@@ -23,10 +23,13 @@ I'm a fresh graduate passionate about technology and software development. I rec
 Improving SQL database design
 Exploring embedded systems basics / IoT
 ## :telescope: Projects
-A project design & Implementation "VOICE CONTROLLED HOME APPLIANCES USING BLUETOOTH ON ANDROID MOBILE"
-Design and Apply Ultrasonic Proximity Detector
-Design and Apply Deaf and Hearing impaired circuit
-Search and enquiry about transistor
+-A project design & Implementation "VOICE CONTROLLED HOME APPLIANCES USING BLUETOOTH ON ANDROID MOBILE"
+
+-Design and Apply Ultrasonic Proximity Detector
+
+-Design and Apply Deaf and Hearing impaired circuit
+
+-Search and enquiry about transistor
 ## :mailbox: How to Reach Me
 - Email:noura.almaskari11@gmail.com
 ## :seedling: Fun Facts

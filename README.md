@@ -11,25 +11,27 @@ I'm a fresh graduate passionate about technology and software development. I rec
 - **Familiar**:C++
 - **Learning**: C#
 ### Web Development
-- **Frontend**: HTML, CSS, JavaScript, [Any frameworks like Blazor, React]
-- **Backend**: [e.g., ASP.NET Core, Node.js, Django]
+- **Frontend**: HTML
+- **Backend**: .NET 
 - **Database**: SQL Server
 ### Tools & Technologies
 - Version Control: Git, GitHub
 - IDEs: Visual Studio, VS Code
-- Other: [Any other tools you know]
+- Other: MATLAB, Multisim, Proteus, Arduino
 ## :books: What I'm Currently Learning
-- [Technology/Framework you're learning]
-- [Another skill you're developing]
-- [Course or certification you're pursuing]
+-C# and .NET Full-Stack Development
+Improving SQL database design
+Exploring embedded systems basics / IoT
 ## :telescope: Projects
-[any projects you finished before]
+A project design & Implementation "VOICE CONTROLLED HOME APPLIANCES USING BLUETOOTH ON ANDROID MOBILE"
+Design and Apply Ultrasonic Proximity Detector
+Design and Apply Deaf and Hearing impaired circuit
+Search and enquiry about transistor
 ## :mailbox: How to Reach Me
-- Email: [your.email@example.com]
-- LinkedIn: [Your LinkedIn URL]
+- Email:noura.almaskari11@gmail.com
 ## :seedling: Fun Facts
-- [Something interesting about you related to tech]
-- [Your hobbies or interests]
+- I love exploring how electronics and software combine to create real-world solutions.
+- Interested in tech, coding, and learning new tools every day.
 
 <!--
 **nouraalmaskari11-wq/nouraalmaskari11-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
